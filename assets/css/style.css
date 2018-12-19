@@ -418,10 +418,10 @@ header {
 }
 .top-info .info-box .icon-box i {
   font-size: 30px;
-  color: #7FA409;
+  color:#fdd046;
   position: relative;
   top: 5px;
-  border-left: 1px solid #6B7261;
+  border-left: 1px solid #fdd046;
   padding-left: 30px;
 }
 .top-info .info-box .social-icons {
@@ -439,7 +439,7 @@ header {
 .top-info .info-box .social-icons li a {
   display: block;
   font-size: 15px;
-  color: #A9AF8F;
+  color: #fdd046;
 }
 .top-info .info-box .social-icons li a:hover {
   color: #7FA409;
@@ -450,7 +450,7 @@ header {
   margin: 0;
 }
 .top-info .info-box span.highlighted {
-  color: #7FA409;
+  color: #fdd046;
 }
 header .logo {
   margin: 4px 0 0;
@@ -6718,7 +6718,7 @@ footer.gardener .quick-links li a:before {
 /** ====== Great gardener team styles ====== **/
 
 #great-gardener-team {
-    background: #98BC24 url(../img/resources/great-gardener-team-bg.png) left center no-repeat;
+    background: #98BC24 url(../img/resources/footerchick.png) left center no-repeat;
     overflow: hidden;
 }
 #great-gardener-team .has-skew {
@@ -6962,12 +6962,12 @@ footer.gardener .quick-links li a:before {
 
 /* Start breadcrumb area css*/
 #breadcrumb-area {
-  background: rgba(0, 0, 0, 0) url("../img/resources/breadcrumb-bg.jpg") no-repeat scroll center center / cover ;
+  background: rgba(0, 0, 0, 0) url("../img/page-divider/chickbanner.png") no-repeat scroll center center / cover ;
   padding-bottom: 52px;
   padding-top: 67px;
 }
 .breadcrumb-title h1 {
-  color: #ffffff;
+  color: #283413;
   font-family: "Roboto Slab",serif;
   font-size: 36px;
   font-weight: 700;
@@ -6975,7 +6975,7 @@ footer.gardener .quick-links li a:before {
   text-transform: uppercase;
 }
 .breadcrumb-title a {
-  color: #ffffff;
+  color: #283413;
   font-family: "Open Sans",sans-serif;
   font-size: 12px;
   font-weight: 600;
@@ -6983,11 +6983,11 @@ footer.gardener .quick-links li a:before {
   text-transform: uppercase;
 }
 .breadcrumb-title.text-center i {
-  color: #ffffff;
+    color: #283413;
   font-size: 12px;
 }
 .breadcrumb-title span {
-  color: #ffffff;
+  color: #283413;
   font-family: "Open Sans",sans-serif;
   font-size: 12px;
   font-weight: 600;
@@ -8468,4 +8468,7 @@ font-family: 'Roboto Slab';
   outline: none;
   box-shadow: none;
   left: 0;
+}
+.divider_height{
+    height: 50px;
 }

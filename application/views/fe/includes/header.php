@@ -80,12 +80,7 @@
 					<li>
 						<button><i class="icon icon-Search"></i></button>
 						<ul class="search-box">
-							<li>
-								<form action="#">
-									<input type="text" placeholder="Search for anything">
-									<button type="submit"><i class="icon icon-Search"></i></button>
-								</form>
-							</li>
+							
 						</ul>
 					</li>					
 				</ul>
