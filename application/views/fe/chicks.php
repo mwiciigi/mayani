@@ -4,384 +4,155 @@
 			<div class="row">
 				<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
 					<div class="breadcrumb-title text-center">
-                    	<h1>Projects</h1>
-						<a href="index.html">Home</a> <i class="fa fa-angle-right"></i> <span>Projects version Three</span>
+                    	<h1>Chicks</h1>
+						<a href="index.html">Home</a> <i class="fa fa-angle-right"></i> <span>chicks</span>
 					</div> <!-- /.page-breadcumb -->
 				</div>
 			</div>
 		</div>
 	</section> <!-- /#page-title -->
 	
-	
-	<section id="project-content">
-		<div class="container">
+   	<!--Start awesome services top area-->
+    <section id="awesome-service-top-area">
+    	<div class="container">
         	<div class="row">
-            	<div class="col-lg-12">
-                    <div class="section-title2">
-                        <p>Our Awesome Work</p>
-                        <h1><span>Checkout our latest projects</span></h1>
-                        <p class="title-text">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolore mque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi arc hitecto beatae eaque ipsa quae ab illo inventore veritatis.</p>
+            	<div class="col-lg-3 col-md-3 col-sm-4 col-xs-12">
+                	<div class="awesome-service-top-img">
+                    	<img src="<?php echo base_url();?>assets/img/awesome-service/awesome-service-top.jpg" alt="">
+                    </div>
+                </div>
+                <div class="col-lg-9 col-md-9 col-sm-8 col-xs-12">
+                	<div class="awesome-service-top-right">
+                    	<div class="section-title2">
+							<h1><span>The Prices for the Chicks</span></h1>
+						</div>
+                        <div class="awesome-service-top-right-text">
+                        	<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolore mque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dict eaque ipsa quae abillo inventore veritatis et quasi architecto.</p>
+                            <p class="moreservice">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididuntut labore et dolore magna aliqua. </p>
+                        </div>
+                        <div class="service-help-line">
+                        	<div class="help-line-text">
+                            	<h2>We Provide 24 Hours Helpline</h2>
+                                <h4>Friendly customer service staff for your all questions!</h4>
+                            </div>
+                            <div class="help-line-number">
+                            	<h2><i class="fa fa-phone"></i>1800-895-9745</h2>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
-		</div>
-	</section>
-
-
-	<section id="project-version-one" class="project-v3">
-		<div class="container">
-			<div class="row">
-				<div class="col-lg-12">
-					<ul class="gallery-filter">
-						<li data-filter="all">
-							<span>All</span>
-						</li>
-						<li data-filter=".kitchen">
-							<span>Lawn renovation</span>
-						</li>
-						<li data-filter=".bathroom">
-							<span>flowerscaping</span>
-						</li>
-						<li data-filter=".drain">
-							<span>gardening care</span>
-						</li>
-						<li data-filter=".plumbing">
-							<span>landscaping</span>
-						</li>
-						<li data-filter=".outside">
-							<span>seasonal clean up</span>
-						</li>
-						<li data-filter=".server-line">
-							<span>tree & shurb care</span>
-						</li>
-					</ul>
-				</div>
-			</div>
-			<div class="row normal-gallery two-col-gallery" id="image-gallery-mix">
-				<div class="col-lg-6 col-sm-6 col-xs-12 tank outside single-project-item  mix">
-					<div class="single-latest-project-gardener">
-						<div class="img-wrap">
-							<img src="<?php echo base_url();?>assets/img/project-v3/1.jpg" alt="">
-							<div class="overlay">
-								<div class="box-holder">
-									<div class="content-box">
-										<h3><span>Landscaping</span> Project</h3>
-										<p>Duis aute irure dolor in reprehenderit in voluptate ve</p>
-										<ul>
-											<li><a class="link-view" href="#"><i class="fa fa-link"></i></a></li>
-											<li><a href="<?php echo base_url();?>assets/img/project-v3/1.jpg" class="fancybox" data-fancybox-group="home-gallery" title="Gardener Gallery"><i class="fa fa-camera"></i></a></li>
-										</ul>
-									</div>
-								</div>
-							</div>
-
-							<div class="modal-content">
-								<div class="item-name">Way Project</div>
-								<img src="<?php echo base_url();?>assets/img/project-v3/1.jpg" alt="" class="item-image">
-								<div class="item-text">
-									<p>sed quia non numquam eius modi tempora incidunt <br> ut labore et dolore magnam aliquam quaerat volup- ptatem. voluptatem. </p>
-									<ul>
-										<li><i class="fa fa-long-arrow-right"></i> Good Furniture in room</li>
-										<li><i class="fa fa-long-arrow-right"></i> Granite Stone on floor</li>
-										<li><i class="fa fa-long-arrow-right"></i> toilet is attached</li>
-									</ul>
-								</div>
-
-							</div>
-						</div>
-						<div class="content hvr-bounce-to-bottom">
-							<h4>Garden renovation</h4>
-							<span>Cutting of grass</span>
-						</div>
+        </div>
+    </section>
+    <!--End awesome services top area-->
+    
+    <!--Start awesome service pricing area-->
+    <section id="awesome-service-pricing-area">
+    	<div class="container">
+        	<div class="row">
+            	<div class="col-lg-12">
+                	<div class="section-title2">
+						<h1><span>our Kienyeji Chicks and their Prices</span></h1>
 					</div>
-				</div>
-				<div class="col-lg-6 col-sm-6 col-xs-12 plumbing outside single-project-item  mix">
-					<div class="single-latest-project-gardener">
-						<div class="img-wrap">
-							<img src="<?php echo base_url();?>assets/img/project-v3/2.jpg" alt="">
-							<div class="overlay">
-								<div class="box-holder">
-									<div class="content-box">
-										<h3><span>Landscaping</span> Project</h3>
-										<p>Duis aute irure dolor in reprehenderit in voluptate ve</p>
-										<ul>
-											<li><a class="link-view" href="#"><i class="fa fa-link"></i></a></li>
-											<li><a href="<?php echo base_url();?>assets/img/project-v3/2.jpg" class="fancybox" data-fancybox-group="home-gallery" title="Gardener Gallery"><i class="fa fa-camera"></i></a></li>
-										</ul>
-									</div>
-								</div>
-							</div>
-
-							<div class="modal-content">
-								<div class="item-name">Way Project</div>
-								<img src="<?php echo base_url();?>assets/img/project-v3/2.jpg" alt="" class="item-image">
-								<div class="item-text">
-									<p>sed quia non numquam eius modi tempora incidunt <br> ut labore et dolore magnam aliquam quaerat volup- ptatem. voluptatem. </p>
-									<ul>
-										<li><i class="fa fa-long-arrow-right"></i> Good Furniture in room</li>
-										<li><i class="fa fa-long-arrow-right"></i> Granite Stone on floor</li>
-										<li><i class="fa fa-long-arrow-right"></i> toilet is attached</li>
-									</ul>
-								</div>
-
-							</div>
+                </div>
+            </div>
+            <div class="row">
+				<!--Start Single price content box-->
+            	<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 price-table">
+                	<div class="price-content">
+						<div class="price-table-top">
+							<h3>1 Day Old</h3>
 						</div>
-						<div class="content hvr-bounce-to-bottom">
-							<h4>Garden renovation</h4>
-							<span>Cutting of grass</span>
-						</div>
+                        <div class="price-box-price-info">
+                            <div class="price-box">
+                                <p>$</p><span>78</span>/mo
+                            </div>
+                            <ul class="price-info">
+                                <li>Garden Care & Lawn Moving</li>
+                                <li>Free Rubbish Removal</li>
+                                <li>Watering Garden With</li>
+                                <li>Planting</li>
+                                <li>Free Landscape Design</li>
+                            </ul>
+                            <a href="#">Get Started Now</a>
+                         </div>
 					</div>
-				</div>
-				<div class="col-lg-6 col-sm-6 col-xs-12 drain plumbing bathroom single-project-item  mix">
-					<div class="single-latest-project-gardener">
-						<div class="img-wrap">
-							<img src="<?php echo base_url();?>assets/img/project-v3/3.jpg" alt="">
-							<div class="overlay">
-								<div class="box-holder">
-									<div class="content-box">
-										<h3><span>Landscaping</span> Project</h3>
-										<p>Duis aute irure dolor in reprehenderit in voluptate ve</p>
-										<ul>
-											<li><a class="link-view" href="#"><i class="fa fa-link"></i></a></li>
-											<li><a href="<?php echo base_url();?>assets/img/project-v3/3.jpg" class="fancybox" data-fancybox-group="home-gallery" title="Gardener Gallery"><i class="fa fa-camera"></i></a></li>
-										</ul>
-									</div>
-								</div>
-							</div>
-
-							<div class="modal-content">
-								<div class="item-name">Way Project</div>
-								<img src="<?php echo base_url();?>assets/img/project-v3/3.jpg" alt="" class="item-image">
-								<div class="item-text">
-									<p>sed quia non numquam eius modi tempora incidunt <br> ut labore et dolore magnam aliquam quaerat volup- ptatem. voluptatem. </p>
-									<ul>
-										<li><i class="fa fa-long-arrow-right"></i> Good Furniture in room</li>
-										<li><i class="fa fa-long-arrow-right"></i> Granite Stone on floor</li>
-										<li><i class="fa fa-long-arrow-right"></i> toilet is attached</li>
-									</ul>
-								</div>
-
-							</div>
+                </div>
+                <!--End Single price content box-->
+            	<!--Start Single price content box-->
+            	<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 price-table">
+                	<div class="price-content">
+						<div class="price-table-top">
+							<h3>1 Week Old</h3>
+                            <div class="paln-toltip"></div>
 						</div>
-						<div class="content hvr-bounce-to-bottom">
-							<h4>Garden renovation</h4>
-							<span>Cutting of grass</span>
-						</div>
+                        <div class="price-box-price-info">
+                            <div class="price-box">
+                                <p>Kes</p><span>100</span>
+                            </div>
+                            <ul class="price-info">
+                                <li>Garden Care & Lawn Moving</li>
+                                <li>Free Rubbish Removal</li>
+                                <li>Watering Garden With</li>
+                                <li>Planting</li>
+                                <li>Free Landscape Design</li>
+                            </ul>
+                            <a href="#">Get Started Now</a>
+                         </div>
 					</div>
-				</div>
-				<div class="col-lg-6 col-sm-6 col-xs-12 kitchen outside drain bathroom single-project-item  mix">
-					<div class="single-latest-project-gardener">
-						<div class="img-wrap">
-							<img src="<?php echo base_url();?>assets/img/project-v3/4.jpg" alt="">
-							<div class="overlay">
-								<div class="box-holder">
-									<div class="content-box">
-										<h3><span>Landscaping</span> Project</h3>
-										<p>Duis aute irure dolor in reprehenderit in voluptate ve</p>
-										<ul>
-											<li><a class="link-view" href="#"><i class="fa fa-link"></i></a></li>
-											<li><a href="<?php echo base_url();?>assets/img/project-v3/4.jpg" class="fancybox" data-fancybox-group="home-gallery" title="Gardener Gallery"><i class="fa fa-camera"></i></a></li>
-										</ul>
-									</div>
-								</div>
-							</div>
-
-							<div class="modal-content">
-								<div class="item-name">Way Project</div>
-								<img src="<?php echo base_url();?>assets/img/project-v3/4.jpg" alt="" class="item-image">
-								<div class="item-text">
-									<p>sed quia non numquam eius modi tempora incidunt <br> ut labore et dolore magnam aliquam quaerat volup- ptatem. voluptatem. </p>
-									<ul>
-										<li><i class="fa fa-long-arrow-right"></i> Good Furniture in room</li>
-										<li><i class="fa fa-long-arrow-right"></i> Granite Stone on floor</li>
-										<li><i class="fa fa-long-arrow-right"></i> toilet is attached</li>
-									</ul>
-								</div>
-
-							</div>
+                </div>
+                <!--End Single price content box-->
+                <!--Start Single price content box-->
+            	<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 price-table">
+                	<div class="price-content">
+						<div class="price-table-top">
+							<h3>2 Week Old</h3>
 						</div>
-						<div class="content hvr-bounce-to-bottom">
-							<h4>Garden renovation</h4>
-							<span>Cutting of grass</span>
-						</div>
+                        <div class="price-box-price-info">
+                            <div class="price-box">
+                                <p>$</p><span>65</span>/mo
+                            </div>
+                            <ul class="price-info">
+                                <li>Garden Care & Lawn Moving</li>
+                                <li>Free Rubbish Removal</li>
+                                <li>Watering Garden With</li>
+                                <li>Planting</li>
+                                <li>Free Landscape Design</li>
+                            </ul>
+                            <a href="#">Get Started Now</a>
+                         </div>
 					</div>
-				</div>
-				<div class="col-lg-6 col-sm-6 col-xs-12 kitchen  bathroom single-project-item  mix">
-					<div class="single-latest-project-gardener">
-						<div class="img-wrap">
-							<img src="<?php echo base_url();?>assets/img/project-v3/5.jpg" alt="">
-							<div class="overlay">
-								<div class="box-holder">
-									<div class="content-box">
-										<h3><span>Landscaping</span> Project</h3>
-										<p>Duis aute irure dolor in reprehenderit in voluptate ve</p>
-										<ul>
-											<li><a class="link-view" href="#"><i class="fa fa-link"></i></a></li>
-											<li><a href="<?php echo base_url();?>assets/img/project-v3/5.jpg" class="fancybox" data-fancybox-group="home-gallery" title="Gardener Gallery"><i class="fa fa-camera"></i></a></li>
-										</ul>
-									</div>
-								</div>
-							</div>
-
-							<div class="modal-content">
-								<div class="item-name">Way Project</div>
-								<img src="<?php echo base_url();?>assets/img/project-v3/5.jpg" alt="" class="item-image">
-								<div class="item-text">
-									<p>sed quia non numquam eius modi tempora incidunt <br> ut labore et dolore magnam aliquam quaerat volup- ptatem. voluptatem. </p>
-									<ul>
-										<li><i class="fa fa-long-arrow-right"></i> Good Furniture in room</li>
-										<li><i class="fa fa-long-arrow-right"></i> Granite Stone on floor</li>
-										<li><i class="fa fa-long-arrow-right"></i> toilet is attached</li>
-									</ul>
-								</div>
-
-							</div>
+                </div>
+                <!--End Single price content box-->
+                <!--Start Single price content box-->
+            	<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 price-table">
+                	<div class="price-content">
+						<div class="price-table-top">
+							<h3>4Week Old</h3>
 						</div>
-						<div class="content hvr-bounce-to-bottom">
-							<h4>Garden renovation</h4>
-							<span>Cutting of grass</span>
-						</div>
+                        <div class="price-box-price-info">
+                            <div class="price-box">
+                                <p>$</p><span>48</span>/mo
+                            </div>
+                            <ul class="price-info">
+                                <li>Garden Care & Lawn Moving</li>
+                                <li>Free Rubbish Removal</li>
+                                <li>Watering Garden With</li>
+                                <li>Planting</li>
+                                <li>Free Landscape Design</li>
+                            </ul>
+                            <a href="#">Get Started Now</a>
+                         </div>
 					</div>
-				</div>
-				<div class="col-lg-6 col-sm-6 col-xs-12 kitchen drain  single-project-item  mix">
-					<div class="single-latest-project-gardener">
-						<div class="img-wrap">
-							<img src="<?php echo base_url();?>assets/img/project-v3/6.jpg" alt="">
-							<div class="overlay">
-								<div class="box-holder">
-									<div class="content-box">
-										<h3><span>Landscaping</span> Project</h3>
-										<p>Duis aute irure dolor in reprehenderit in voluptate ve</p>
-										<ul>
-											<li><a class="link-view" href="#"><i class="fa fa-link"></i></a></li>
-											<li><a href="<?php echo base_url();?>assets/img/project-v3/6.jpg" class="fancybox" data-fancybox-group="home-gallery" title="Gardener Gallery"><i class="fa fa-camera"></i></a></li>
-										</ul>
-									</div>
-								</div>
-							</div>
-
-							<div class="modal-content">
-								<div class="item-name">Way Project</div>
-								<img src="<?php echo base_url();?>assets/img/project-v3/6.jpg" alt="" class="item-image">
-								<div class="item-text">
-									<p>sed quia non numquam eius modi tempora incidunt <br> ut labore et dolore magnam aliquam quaerat volup- ptatem. voluptatem. </p>
-									<ul>
-										<li><i class="fa fa-long-arrow-right"></i> Good Furniture in room</li>
-										<li><i class="fa fa-long-arrow-right"></i> Granite Stone on floor</li>
-										<li><i class="fa fa-long-arrow-right"></i> toilet is attached</li>
-									</ul>
-								</div>
-
-							</div>
-						</div>
-						<div class="content hvr-bounce-to-bottom">
-							<h4>Garden renovation</h4>
-							<span>Cutting of grass</span>
-						</div>
-					</div>
-				</div>
-				<div class="col-lg-6 col-sm-6 col-xs-12 kitchen drain bathroom single-project-item  mix">
-					<div class="single-latest-project-gardener">
-						<div class="img-wrap">
-							<img src="<?php echo base_url();?>assets/img/project-v3/7.jpg" alt="">
-							<div class="overlay">
-								<div class="box-holder">
-									<div class="content-box">
-										<h3><span>Landscaping</span> Project</h3>
-										<p>Duis aute irure dolor in reprehenderit in voluptate ve</p>
-										<ul>
-											<li><a class="link-view" href="#"><i class="fa fa-link"></i></a></li>
-											<li><a href="<?php echo base_url();?>assets/img/project-v3/7.jpg" class="fancybox" data-fancybox-group="home-gallery" title="Gardener Gallery"><i class="fa fa-camera"></i></a></li>
-										</ul>
-									</div>
-								</div>
-							</div>
-
-							<div class="modal-content">
-								<div class="item-name">Way Project</div>
-								<img src="<?php echo base_url();?>assets/img/project-v3/7.jpg" alt="" class="item-image">
-								<div class="item-text">
-									<p>sed quia non numquam eius modi tempora incidunt <br> ut labore et dolore magnam aliquam quaerat volup- ptatem. voluptatem. </p>
-									<ul>
-										<li><i class="fa fa-long-arrow-right"></i> Good Furniture in room</li>
-										<li><i class="fa fa-long-arrow-right"></i> Granite Stone on floor</li>
-										<li><i class="fa fa-long-arrow-right"></i> toilet is attached</li>
-									</ul>
-								</div>
-
-							</div>
-						</div>
-						<div class="content hvr-bounce-to-bottom">
-							<h4>Garden renovation</h4>
-							<span>Cutting of grass</span>
-						</div>
-					</div>
-				</div>
-				<div class="col-lg-6 col-sm-6 col-xs-12 kitchen drain bathroom single-project-item  mix">
-					<div class="single-latest-project-gardener">
-						<div class="img-wrap">
-							<img src="<?php echo base_url();?>assets/img/project-v3/8.jpg" alt="">
-							<div class="overlay">
-								<div class="box-holder">
-									<div class="content-box">
-										<h3><span>Landscaping</span> Project</h3>
-										<p>Duis aute irure dolor in reprehenderit in voluptate ve</p>
-										<ul>
-											<li><a class="link-view" href="#"><i class="fa fa-link"></i></a></li>
-											<li><a href="<?php echo base_url();?>assets/img/project-v3/8.jpg" class="fancybox" data-fancybox-group="home-gallery" title="Gardener Gallery"><i class="fa fa-camera"></i></a></li>
-										</ul>
-									</div>
-								</div>
-							</div>
-
-							<div class="modal-content">
-								<div class="item-name">Way Project</div>
-								<img src="<?php echo base_url();?>assets/img/project-v3/8.jpg" alt="" class="item-image">
-								<div class="item-text">
-									<p>sed quia non numquam eius modi tempora incidunt <br> ut labore et dolore magnam aliquam quaerat volup- ptatem. voluptatem. </p>
-									<ul>
-										<li><i class="fa fa-long-arrow-right"></i> Good Furniture in room</li>
-										<li><i class="fa fa-long-arrow-right"></i> Granite Stone on floor</li>
-										<li><i class="fa fa-long-arrow-right"></i> toilet is attached</li>
-									</ul>
-								</div>
-
-							</div>
-						</div>
-						<div class="content hvr-bounce-to-bottom">
-							<h4>Garden renovation</h4>
-							<span>Cutting of grass</span>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
-
-	<!-- gallery Modal -->
-	<div class="modal fade" id="single-gallery-modal" tabindex="-1" role="dialog" aria-labelledby="myModalLabelTwo">
-		<div class="modal-dialog" role="document">
-			<div class="modal-content">
-				<div class="modal-header">
-					<h4 class="modal-title text-center" id="myModalLabelTwo">Details of <span class="item-name">Landscaping Project</span></h4>
-					<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-				</div>
-				<div class="modal-body">
-					<div class="row">
-						<div class="col-md-6">
-							<div class="img-holder item-image">
-								<img src="<?php echo base_url();?>assets/img/latest-project-gardener/1.jpg" alt="">
-							</div>
-						</div>
-						<div class="col-md-6 item-text">
-							<!-- content loading via jQuery -->
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-	<!-- /gallery Modal -->
+                </div>
+                <!--End Single price content box-->
+                
+            </div>
+        </div>
+    </section>
+    
+    <!--End awesome service pricing area-->
+    
 
 	<section id="great-gardener-team">
 		<div class="container">

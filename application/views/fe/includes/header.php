@@ -65,10 +65,11 @@
 				</div>
 				<div class="nav-footer">
 					<ul class="nav">
-						<li class="active"><a href="<?php echo base_url();?>home">Home</a></li>						
-						<li  class="dropdown"><a href="<?php echo base_url();?>chicks">Hatchery</a></li>
+						<li class="active"><a href="<?php echo base_url();?>home">Home</a></li>	
+						<li  class="dropdown"><a href="<?php echo base_url();?>chicks">Chicks</a></li>				
+						<li  class="dropdown"><a href="<?php echo base_url();?>eggs">Eggs</a></li>
 						<li  class="dropdown"><a href="<?php echo base_url();?>services">Services</a></li>
-						<li class="dropdown"><a href="<?php echo base_url();?>equipment">Products</a></li>
+						<li class="dropdown"><a href="<?php echo base_url();?>product">Products</a></li>
 						<li class="dropdown"><a href="<?php echo base_url();?>blog">blog</a></li>
 						<li class="dropdown"><a href="<?php echo base_url();?>about">about us</a></li>
 						<li><a href="<?php echo base_url();?>contact">Contact US</a></li>
