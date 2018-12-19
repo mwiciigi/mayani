@@ -110,5 +110,11 @@
 	<script src="<?php echo base_url();?>assets/js/jquery.fitvids.js"></script> <!-- jquery fitVids JS -->
 	<script src="<?php echo base_url();?>assets/js/jquery.bxslider.min.js"></script> <!-- jquery bx slider JS -->
 	<script src="<?php echo base_url();?>assets/js/custom.js"></script> <!-- Custom JS -->
+
+	<script src="js/jquery.mixitup.min.js"></script> <!-- MixIt UP JS -->
+	<script src="js/jquery.fancybox.pack.js"></script> <!-- FancyBox -->
+	<script src="js/jquery.easing.min.js"></script> <!-- EaseIng JS -->
+	<script src="js/custom.js"></script> <!-- Custom JS -->
+
 </body>
 </html>
