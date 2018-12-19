@@ -4,8 +4,8 @@
 			<div class="row">
 				<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
 					<div class="breadcrumb-title text-center">
-                    	<h1>services</h1>
-						<a href="index.html">Home</a> <i class="fa fa-angle-right"></i> <span>services</span>
+                    	<h1>Eggs</h1>
+						<a href="index.html">Home</a> <i class="fa fa-angle-right"></i> <span>eggs</span>
 					</div> <!-- /.page-breadcumb -->
 				</div>
 			</div>
@@ -24,8 +24,7 @@
                 <div class="col-lg-9 col-md-9 col-sm-8 col-xs-12">
                 	<div class="awesome-service-top-right">
                     	<div class="section-title2">
-            				<p>We offier differnt services</p>
-							<h1><span>our awesome services</span></h1>
+							<h1><span>We sell Eggs in for breeding</span></h1>
 						</div>
                         <div class="awesome-service-top-right-text">
                         	<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolore mque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dict eaque ipsa quae abillo inventore veritatis et quasi architecto.</p>
@@ -53,8 +52,7 @@
         	<div class="row">
             	<div class="col-lg-12">
                 	<div class="section-title2">
-            			<p>We offier differnt services</p>
-						<h1><span>our awesome services</span></h1>
+						<h1><span>Prices For Eggs</span></h1>
 					</div>
                 </div>
             </div>
@@ -63,12 +61,12 @@
             	<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 price-table">
                 	<div class="price-content">
 						<div class="price-table-top">
-							<h3>Standard Plan</h3>
+							<h3>Chicken -  Kienyenji Fertilized Eggs</h3>
                             <div class="paln-toltip"></div>
 						</div>
                         <div class="price-box-price-info">
                             <div class="price-box">
-                                <p>$</p><span>44</span>/mo
+                                <p>Kes</p><span>600</span>/Tray
                             </div>
                             <ul class="price-info">
                                 <li>Garden Care & Lawn Moving</li>
@@ -86,11 +84,11 @@
             	<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 price-table">
                 	<div class="price-content">
 						<div class="price-table-top">
-							<h3>Basic Plan</h3>
+							<h3>Turkey - Kari Eggs </h3>
 						</div>
                         <div class="price-box-price-info">
                             <div class="price-box">
-                                <p>$</p><span>65</span>/mo
+                                <p>Kes</p><span>1000</span>/Tray
                             </div>
                             <ul class="price-info">
                                 <li>Garden Care & Lawn Moving</li>

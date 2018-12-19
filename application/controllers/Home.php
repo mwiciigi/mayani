@@ -17,13 +17,18 @@ class Home extends CI_Controller {
 		$this->load->view('fe/includes/template',$data);
 	}
 
+	public function eggs(){
+		$data['main_content'] = 'fe/eggs';
+		$this->load->view('fe/includes/template',$data);
+	}
+
 	public function services(){
 		$data['main_content'] = 'fe/services';
 		$this->load->view('fe/includes/template',$data);
 	}
 
-	public function equipment(){
-		$data['main_content'] = 'fe/equipment';
+	public function product(){
+		$data['main_content'] = 'fe/product';
 		$this->load->view('fe/includes/template',$data);
 	}
 
