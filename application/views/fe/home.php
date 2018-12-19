@@ -2,133 +2,14 @@
 		<div id="slider1" class="rev_slider"  data-version="5.0">
 			<ul>
 				<li data-transition="parallaxvertical">
-					<img src="<?php echo base_url();?>assets/img/slides/image3.jpg"  alt="" width="1920" height="705" data-bgposition="top center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="1" >
-					<div class="tp-caption sfl tp-resizeme gardener-caption-h1" 
-				        data-x="left" data-hoffset="0" 
-				        data-y="top" data-voffset="190" 
-				        data-whitespace="nowrap"
-				        data-transform_idle="o:1;" 
-				        data-transform_in="o:0" 
-				        data-transform_out="o:0" 
-				        data-start="500">
-						Helping you improve 
-				    </div>
-					<div class="tp-caption sfr tp-resizeme gardener-caption-h1 bg-white font-light" 
-				        data-x="left" data-hoffset="0" 
-				        data-y="top" data-voffset="251" 
-				        data-whitespace="nowrap"
-				        data-transform_idle="o:1;" 
-				        data-transform_in="o:0" 
-				        data-transform_out="o:0" 
-				        data-start="1000">
-						<span class="bold">Your garden appearance</span>
-				    </div>
-					<div class="tp-caption sfb tp-resizeme gardener-caption-p" 
-				        data-x="left" data-hoffset="0" 
-				        data-y="top" data-voffset="340" 
-				        data-whitespace="nowrap"
-				        data-transform_idle="o:1;" 
-				        data-transform_in="o:0" 
-				        data-transform_out="o:0" 
-				        data-start="1500">
-						Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed <br>do eiusmod tempor incididunt ut labore et dolore magna <br>aliqua. Ut enim ad minim veniam.
-				    </div>
-					<div class="tp-caption sfb tp-resizeme" 
-				        data-x="left" data-hoffset="0" 
-				        data-y="top" data-voffset="455" 
-				        data-whitespace="nowrap"
-				        data-transform_idle="o:1;" 
-				        data-transform_in="o:0" 
-				        data-transform_out="o:0" 
-				        data-start="2000">
-						<a href="#" class="banner-btn">learn more <i class="fa fa-arrow-circle-right"></i></a>
-				    </div>
+					<img src="<?php echo base_url();?>assets/img/slides/chick.jpg"  alt="" width="1920" height="705" data-bgposition="top center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="1" >					
 				</li>
 				<li data-transition="parallaxvertical">
-					<img src="<?php echo base_url();?>assets/img/slides/image1.jpg"  alt=""  width="1920" height="705" data-bgposition="top center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="2" >
-					<div class="tp-caption sft tp-resizeme gardener-caption-h1" 
-				        data-x="left" data-hoffset="0" 
-				        data-y="top" data-voffset="190" 
-				        data-whitespace="nowrap"
-				        data-transform_idle="o:1;" 
-				        data-transform_in="o:0" 
-				        data-transform_out="o:0" 
-				        data-start="500">
-						lawn renovation
-				    </div>
-					<div class="tp-caption sft tp-resizeme gardener-caption-h1 bg-white font-light" 
-				        data-x="left" data-hoffset="0" 
-				        data-y="top" data-voffset="251" 
-				        data-whitespace="nowrap"
-				        data-transform_idle="o:1;" 
-				        data-transform_in="o:0" 
-				        data-transform_out="o:0" 
-				        data-start="1000">
-						<span class="bold">flower</span> scaping
-				    </div>
-					<div class="tp-caption sfb tp-resizeme gardener-caption-p" 
-				        data-x="left" data-hoffset="0" 
-				        data-y="top" data-voffset="340" 
-				        data-whitespace="nowrap"
-				        data-transform_idle="o:1;" 
-				        data-transform_in="o:0" 
-				        data-transform_out="o:0" 
-				        data-start="1500">
-						Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed <br>do eiusmod tempor incididunt ut labore et dolore magna <br>aliqua. Ut enim ad minim veniam.
-				    </div>
-					<div class="tp-caption sfb tp-resizeme" 
-				        data-x="left" data-hoffset="0" 
-				        data-y="top" data-voffset="455" 
-				        data-whitespace="nowrap"
-				        data-transform_idle="o:1;" 
-				        data-transform_in="o:0" 
-				        data-transform_out="o:0" 
-				        data-start="2000">
-						<a href="#" class="banner-btn">learn more <i class="fa fa-arrow-circle-right"></i></a>
-				    </div>
+					<img src="<?php echo base_url();?>assets/img/slides/chick1.jpg"  alt=""  width="1920" height="705" data-bgposition="top center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="2" >
+					
 				</li>
 				<li data-transition="parallaxvertical">
-					<img src="<?php echo base_url();?>assets/img/slides/image2.jpg"  alt=""  width="1920" height="705" data-bgposition="top center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="3" >
-					<div class="tp-caption sfl tp-resizeme gardener-caption-h1" 
-				        data-x="left" data-hoffset="0" 
-				        data-y="top" data-voffset="190" 
-				        data-whitespace="nowrap"
-				        data-transform_idle="o:1;" 
-				        data-transform_in="o:0" 
-				        data-transform_out="o:0" 
-				        data-start="500">
-						exterior design
-				    </div>
-					<div class="tp-caption sfr tp-resizeme gardener-caption-h1 bg-white font-light" 
-				        data-x="left" data-hoffset="0" 
-				        data-y="top" data-voffset="251" 
-				        data-whitespace="nowrap"
-				        data-transform_idle="o:1;" 
-				        data-transform_in="o:0" 
-				        data-transform_out="o:0" 
-				        data-start="1000">
-						<span class="bold">Green</span> Planet
-				    </div>
-					<div class="tp-caption sfb tp-resizeme gardener-caption-p" 
-				        data-x="left" data-hoffset="0" 
-				        data-y="top" data-voffset="340" 
-				        data-whitespace="nowrap"
-				        data-transform_idle="o:1;" 
-				        data-transform_in="o:0" 
-				        data-transform_out="o:0" 
-				        data-start="1500">
-						Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed <br>do eiusmod tempor incididunt ut labore et dolore magna <br>aliqua. Ut enim ad minim veniam.
-				    </div>
-					<div class="tp-caption sfb tp-resizeme" 
-				        data-x="left" data-hoffset="0" 
-				        data-y="top" data-voffset="455" 
-				        data-whitespace="nowrap"
-				        data-transform_idle="o:1;" 
-				        data-transform_in="o:0" 
-				        data-transform_out="o:0" 
-				        data-start="2000">
-						<a href="#" class="banner-btn">learn more <i class="fa fa-arrow-circle-right"></i></a>
-				    </div>
+					<img src="<?php echo base_url();?>assets/img/slides/chick2.jpg"  alt=""  width="1920" height="705" data-bgposition="top center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="3" >					
 				</li>
 			</ul>
 		</div>
@@ -140,7 +21,7 @@
 			<div class="row">
 				<div class="col-lg-12 col-md-12">
 					<p>Check out our list of service for your garden and get free quote </p>
-                    <a class="contact-button" href="">
+                    <a class="contact-button" href="<?php echo base_url();?>contact">
                     	<div class="contact-us-button">contact us</div>
                         <i class="fa fa-arrow-circle-right"></i>
                     </a>
@@ -156,29 +37,27 @@
 			<div class="row">
 				<div class="col-lg-3 col-md-4 col-sm-12 col-xs-12">
 					<div class="img-border">
-						<img src="<?php echo base_url();?>assets/img/landscaping-design/1.jpg" alt="">
+						<img src="<?php echo base_url();?>assets/img/landscaping-design/baby-chick-and-an-egg.jpg" alt="">
 					</div>
 				</div>
-				<div class="col-lg-5 col-md-8 col-sm-12 col-xs-12">
-					<h2><b>landscaping</b> design <br>and construction</h2>
-					<p>Lorem ipsum dolor sit amet, cons ectetur elit. Vestibulum nec odios Suspe ndisse cursus mal suada faci lisis. Lorem ipsum dolor sit ametion consectetur elit. Vesti bulum nec odio ipsum.</p>
+				<div class="col-lg-5 col-md-12 col-sm-12 col-xs-12">
+					<h2><b>Poultry Rearing</b> Chicks and Hatching</h2>
+					<p>Day-old chicks. To be successful in poultry keeping, choose your chick supplier carefully and make efforts to minimise their stress to ensure you maintain good chick quality.</p>
 					<ul>
-						<li><i class="fa fa-angle-right"></i> Lawn Renovation</li>
-						<li><i class="fa fa-angle-right"></i> Landscape Lighting</li>
-						<li><i class="fa fa-angle-right"></i> Flowerscaping</li>
-						<li><i class="fa fa-angle-right"></i> Natural Stone Walks</li>
+						<li><i class="fa fa-angle-right"></i> The Days it take to hatch</li>
+						<li><i class="fa fa-angle-right"></i> Giving care to your chicks</li>
+						<li><i class="fa fa-angle-right"></i> Right food for chicks</li>
+						<li><i class="fa fa-angle-right"></i> Different Varieties of chicks</li>
+						<li><i class="fa fa-angle-right"></i> Giving care to your chicks</li>
+						<li><i class="fa fa-angle-right"></i> Right food for chicks</li>
+						<li><i class="fa fa-angle-right"></i> Different Varieties of chicks</li>
 					</ul>
-					<ul>
-						<li><i class="fa fa-angle-right"></i> Lawn Maintenance</li>
-						<li><i class="fa fa-angle-right"></i> Seasonal Clean-ups</li>
-						<li><i class="fa fa-angle-right"></i> Snow Plowing & Salting</li>
-						<li><i class="fa fa-angle-right"></i> Tree & Shrub Care</li>
-					</ul>
+					
 				</div>
 				<div class="col-lg-4 col-md-9 col-sm-12 col-xs-12 col-lg-offset-0 col-md-offset-3 col-sm-offset-0 col-xs-offset-0 lawn-maintenance">
-					<h3>lawn maintenance</h3>
-					<p>Lorem ipsum dolor sit amet, cons ectetur elit. Vestibulum nec odios Suspe ndisse cursus mal suada faci lisis. Lorem ipsum dolor sit ametion consectetur. </p>
-					<img src="<?php echo base_url();?>assets/img/landscaping-design/lawn-maintain.png" alt="">
+					<h2><b>Hatchery Equipments</b></h2>
+					<p>Affordable, Highly efficient incubator. Free backup generators, free delivery. High hatching rate. Free support. With warranties. Models: Imported, Fully Automatic, High Hatch rates, Backup generators.</p>
+					<img src="<?php echo base_url();?>assets/img/landscaping-design/incubator.jpg" width="100%" alt="">
 				</div>
 			</div>
 		</div>
@@ -199,8 +78,8 @@
                         	<i class="flaticon-rural18"></i>
                         </div>
                         <div class="service-text">
-                        	<h4>lawn Renovation</h4>
-                            <p>Duis aute irure dolor in reprehend erit in voluptate velit esse.</p>
+                        	<h4>Incubation Services</h4>
+                            <p>We offer incubation services when you have eggs that you want to hatch</p>
                         </div>
                     </div>
                 </div>
@@ -213,8 +92,8 @@
                         	<i class="flaticon-shovel1"></i>
                         </div>
                         <div class="service-text">
-                        	<h4>Rubbish removal</h4>
-                            <p>Duis aute irure dolor in reprehend erit in voluptate velit esse.</p>
+                        	<h4>Building Poultry Structures</h4>
+                            <p>We build poultry structures at clients location </p>
                         </div>
                     </div>
                 </div>
@@ -283,23 +162,23 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-7 col-md-12">
-					<h2>Welcome to gardener press</h2>
-					<p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliq uam quae rat voluptatem. Ut enim ad minima veniam, quis nostrum.</p>
-					<h3>We are available for 24/7 for Moving Services</h3>
+					<h2>We offer Incubation Services</h2>
+					<p>We are happy to incubate your eggs using our Egg Incubation Service. We provide a full hatching service. We will incubate your eggs in one of our 3  A&B or 2 Bristol setters all forced air. Then move them to either our Bristol or Curfew forced air hatchers for the last stage of incubation. We candle eggs at 10 days depending on shell colour. We can keep you informed of progress throughout incubation and provide you with updates of your eggs fertility rates and chick count on hatching so you can make adequate room the your new arrivals. Or move that cock that just isn’t doing the job with his hens.</p>
+					<h3>We are available for 24/7 for Incubation Services</h3>
 					<div class="list-box clearfix">
 						<ul>
-							<li><i class="fa fa-hand-o-right"></i>Lawn Renovation</li>
-							<li><i class="fa fa-hand-o-right"></i>Tree & Shrub Care</li>
+							<li><i class="fa fa-hand-o-right"></i>Incubation Services</li>
+							<li><i class="fa fa-hand-o-right"></i> Chick Feed Services</li>
 						</ul>
 						<ul>
-							<li><i class="fa fa-hand-o-right"></i>COMPLETE development</li>
-							<li><i class="fa fa-hand-o-right"></i>Pets control in your lawn</li>
+							<li><i class="fa fa-hand-o-right"></i>Poultry Structures</li>
+							<li><i class="fa fa-hand-o-right"></i>Fertilized Eggs</li>
 						</ul>
 					</div>
 				</div>
 				<div class="col-lg-5 hidden-md">
 					<div class="img-holder hvr-rectangle-out">
-						<img src="<?php echo base_url();?>assets/img/welcome-to-gardener/1.jpg" alt="">
+						<img src="<?php echo base_url();?>assets/img/welcome-to-gardener/chicks10.jpg" alt="">
 					</div>
 				</div>
 			</div>
@@ -309,28 +188,28 @@
 	<section id="latest-project-gardener">
 		<div class="container">
 			<div class="section-title2">
-            	<p>Worked We Have Done</p>
-				<h1><span>Our recent projects</span></h1>
+            	<p>Hatchery Equipments</p>
+				<h1><span>We have different Equipments for Hatchery</span></h1>
 			</div>
 			<div class="row">
-				<div class="col-lg-5 col-md-5 col-sm-6">
+				<div class="col-lg-4 col-md-4 col-sm-6">
 					<div class="single-latest-project-gardener">
-						<img src="<?php echo base_url();?>assets/img/latest-project-gardener/1.jpg" alt="">
+						<img src="<?php echo base_url();?>assets/img/latest-project-gardener/incubator1.jpg" alt="">
 						<div class="overlay">
 							<div class="box-holder">
 								<div class="content-box">
-									<h3><span>Landscaping</span> Project</h3>
+									<h3><span>60 Eggs</span> Incubators</h3>
 									<p>Duis aute irure dolor in reprehenderit in voluptate ve</p>
 									<ul>
 										<li><a class="link-view" href="#"><i class="fa fa-link"></i></a></li>
-										<li><a href="img/latest-project-gardener/1.jpg" class="fancybox" data-fancybox-group="home-gallery" title="Gardener Gallery"><i class="fa fa-camera"></i></a></li>
+										<li><a href="img/latest-project-gardener/incubator1.jpg" class="fancybox" data-fancybox-group="home-gallery" title="Gardener Gallery"><i class="fa fa-camera"></i></a></li>
 									</ul>
 								</div>
 							</div>
 						</div>						
 						<div class="modal-content">
-							<div class="item-name">Landscaping Project</div>
-							<img src="<?php echo base_url();?>assets/img/latest-project-gardener/1.jpg" alt="" class="item-image">
+							<div class="item-name">Incubator</div>
+							<img src="<?php echo base_url();?>assets/img/latest-project-gardener/incubator1.jpg" alt="" class="item-image">
 							<div class="item-text">
 								<p>sed quia non numquam eius modi tempora incidunt <br> ut labore et dolore magnam aliquam quaerat volup- ptatem. voluptatem. </p>
 								<ul>
@@ -345,22 +224,22 @@
 				</div>
 				<div class="col-lg-4 col-md-4 col-sm-6">
 					<div class="single-latest-project-gardener">
-					<img src="<?php echo base_url();?>assets/img/latest-project-gardener/2.jpg" alt="" class="item-image">
+					<img src="<?php echo base_url();?>assets/img/latest-project-gardener/incubator2.png" alt="" class="item-image">
 						<div class="overlay">
 							<div class="box-holder">
 								<div class="content-box">
-									<h3><span>Landscaping</span> Project</h3>
+									<h3><span>120 Eggs</span> Incubators</h3>
 									<p>Duis aute irure dolor in reprehenderit in voluptate ve</p>
 									<ul>
 										<li><a class="link-view" href="#"><i class="fa fa-link"></i></a></li>
-										<li><a href="img/latest-project-gardener/2.jpg" class="fancybox" data-fancybox-group="home-gallery" title="Gardener Gallery"><i class="fa fa-camera"></i></a></li>
+										<li><a href="img/latest-project-gardener/incubator2.png" class="fancybox" data-fancybox-group="home-gallery" title="Gardener Gallery"><i class="fa fa-camera"></i></a></li>
 									</ul>
 								</div>
 							</div>
 						</div>							
 						<div class="modal-content">
 							<div class="item-name">Landscaping Project</div>
-							<img src="<?php echo base_url();?>assets/img/latest-project-gardener/2.jpg" alt="" class="item-image">
+							<img src="<?php echo base_url();?>assets/img/latest-project-gardener/incubator2.png" alt="" class="item-image">
 							<div class="item-text">
 								<p>sed quia non numquam eius modi tempora incidunt <br> ut labore et dolore magnam aliquam quaerat volup- ptatem. voluptatem. </p>
 								<ul>
@@ -373,7 +252,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="col-lg-3 col-md-3 col-sm-6">
+				<div class="col-lg-4 col-md-4	 col-sm-6">
 					<div class="single-latest-project-gardener">
 					<img src="<?php echo base_url();?>assets/img/latest-project-gardener/3.jpg" alt="" class="item-image">
 						<div class="overlay">
@@ -531,7 +410,7 @@
 				</a>
 			</div>
 			<div class="col-lg-7 col-md-12 col-sm-12 col-xs-12 video-text">
-				<h2>Consequuntur magni dolores eos qui ratione</h2>
+				<h2>Watch Our Tutorial Videos</h2>
 				<p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia con sequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quis quam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.  Neque porro quis quam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.</p>
                 <a class="contact-button" href="" data-toggle="modal" data-target=".video-popup-modal" >
                 	<div class="contact-us-button">see videos</div>
@@ -553,7 +432,7 @@
 					<div class="modal-body">
 						<ul class="bxslider video-gallery" id="yt-player">
 							<li>
-								<iframe width="600" height="400" src="https://www.youtube.com/embed/23gYp4fIkNQ" allowfullscreen></iframe>
+								<iframe width="600" height="400" src="https://youtu.be/l58yv91tnnA" allowfullscreen></iframe>
 							</li>
 							<li>
 								<iframe width="600" height="400" src="https://www.youtube.com/embed/k0ZvG_917YI" allowfullscreen></iframe>
@@ -573,200 +452,6 @@
 
 	</section>
 
-    <!--Start dedicated team area-->
-    <section id="dedicated-team-area" class="home">
-    	<div class="container">
-        	<div class="row">
-            	<div class="col-lg-12">
-                	<div class="section-title2">
-            			<p>We Are Expert In Work</p>
-						<h1><span>Our dedicated team</span></h1>
-					</div>
-                </div>
-            </div>
-            <div class="row">
-            	<div class="dedicated-team-items owl-carousel owl-theme">
-                	<!--Start dedicated team single item-->
-                	<div class="item">
-                    	<div class="dedicated-team-single-item">
-                        	<div class="dedicated-team-img-holder">
-                                <img src="<?php echo base_url();?>assets/img/dedicated-team/dedicated-team-1.jpg" alt="">
-                                <div class="overlay">
-	                                <div class="inner-holder">
-	                                	<ul>
-	                                		<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-	                                		<li><a href="#"><i class="fa fa-twitter"></i></a></li>
-	                                		<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-	                                		<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-	                                	</ul>
-	                                </div>
-                                </div>
-                            </div>
-                            <div class="dedicated-team-member-name">
-                                <h4>John Martin -<span>Founder</span></h4>
-                            </div>
-                        </div>
-                    </div>
-                    <!--End dedicated team single item-->
-                    <!--Start dedicated team single item-->
-                	<div class="item">
-                    	<div class="dedicated-team-single-item">
-                        	<div class="dedicated-team-img-holder">
-                                <img src="<?php echo base_url();?>assets/img/dedicated-team/dedicated-team-2.jpg" alt="">
-                                <div class="overlay">
-	                                <div class="inner-holder">
-	                                	<ul>
-	                                		<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-	                                		<li><a href="#"><i class="fa fa-twitter"></i></a></li>
-	                                		<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-	                                		<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-	                                	</ul>
-	                                </div>
-                                </div>
-                            </div>
-                            <div class="dedicated-team-member-name">
-                                <h4>John Martin -<span>Founder</span></h4>
-                            </div>
-                        </div>
-                    </div>
-                    <!--End dedicated team single item-->
-                    <!--Start dedicated team single item-->
-                	<div class="item">
-                    	<div class="dedicated-team-single-item">
-                        	<div class="dedicated-team-img-holder">
-                                <img src="<?php echo base_url();?>assets/img/dedicated-team/dedicated-team-3.jpg" alt="">
-                                <div class="overlay">
-	                                <div class="inner-holder">
-	                                	<ul>
-	                                		<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-	                                		<li><a href="#"><i class="fa fa-twitter"></i></a></li>
-	                                		<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-	                                		<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-	                                	</ul>
-	                                </div>
-                                </div>
-                            </div>
-                            <div class="dedicated-team-member-name">
-                                <h4>John Martin -<span>Founder</span></h4>
-                            </div>
-                        </div>
-                    </div>
-                    <!--End dedicated team single item-->
-                    <!--Start dedicated team single item-->
-                	<div class="item">
-                    	<div class="dedicated-team-single-item">
-                        	<div class="dedicated-team-img-holder">
-                                <img src="<?php echo base_url();?>assets/img/dedicated-team/dedicated-team-1.jpg" alt="">
-                                <div class="overlay">
-	                                <div class="inner-holder">
-	                                	<ul>
-	                                		<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-	                                		<li><a href="#"><i class="fa fa-twitter"></i></a></li>
-	                                		<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-	                                		<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-	                                	</ul>
-	                                </div>
-                                </div>
-                            </div>
-                            <div class="dedicated-team-member-name">
-                                <h4>John Martin -<span>Founder</span></h4>
-                            </div>
-                        </div>
-                    </div>
-                    <!--End dedicated team single item-->
-                	<!--Start dedicated team single item-->
-                	<div class="item">
-                    	<div class="dedicated-team-single-item">
-                        	<div class="dedicated-team-img-holder">
-                                <img src="<?php echo base_url();?>assets/img/dedicated-team/dedicated-team-1.jpg" alt="">
-                                <div class="overlay">
-	                                <div class="inner-holder">
-	                                	<ul>
-	                                		<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-	                                		<li><a href="#"><i class="fa fa-twitter"></i></a></li>
-	                                		<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-	                                		<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-	                                	</ul>
-	                                </div>
-                                </div>
-                            </div>
-                            <div class="dedicated-team-member-name">
-                                <h4>John Martin -<span>Founder</span></h4>
-                            </div>
-                        </div>
-                    </div>
-                    <!--End dedicated team single item-->
-                    <!--Start dedicated team single item-->
-                	<div class="item">
-                    	<div class="dedicated-team-single-item">
-                        	<div class="dedicated-team-img-holder">
-                                <img src="<?php echo base_url();?>assets/img/dedicated-team/dedicated-team-2.jpg" alt="">
-                                <div class="overlay">
-	                                <div class="inner-holder">
-	                                	<ul>
-	                                		<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-	                                		<li><a href="#"><i class="fa fa-twitter"></i></a></li>
-	                                		<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-	                                		<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-	                                	</ul>
-	                                </div>
-                                </div>
-                            </div>
-                            <div class="dedicated-team-member-name">
-                                <h4>John Martin -<span>Founder</span></h4>
-                            </div>
-                        </div>
-                    </div>
-                    <!--End dedicated team single item-->
-                    <!--Start dedicated team single item-->
-                	<div class="item">
-                    	<div class="dedicated-team-single-item">
-                        	<div class="dedicated-team-img-holder">
-                                <img src="<?php echo base_url();?>assets/img/dedicated-team/dedicated-team-3.jpg" alt="">
-                                <div class="overlay">
-	                                <div class="inner-holder">
-	                                	<ul>
-	                                		<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-	                                		<li><a href="#"><i class="fa fa-twitter"></i></a></li>
-	                                		<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-	                                		<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-	                                	</ul>
-	                                </div>
-                                </div>
-                            </div>
-                            <div class="dedicated-team-member-name">
-                                <h4>John Martin -<span>Founder</span></h4>
-                            </div>
-                        </div>
-                    </div>
-                    <!--End dedicated team single item-->
-                    <!--Start dedicated team single item-->
-                	<div class="item">
-                    	<div class="dedicated-team-single-item">
-                        	<div class="dedicated-team-img-holder">
-                                <img src="<?php echo base_url();?>assets/img/dedicated-team/dedicated-team-1.jpg" alt="">
-                                <div class="overlay">
-	                                <div class="inner-holder">
-	                                	<ul>
-	                                		<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-	                                		<li><a href="#"><i class="fa fa-twitter"></i></a></li>
-	                                		<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-	                                		<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-	                                	</ul>
-	                                </div>
-                                </div>
-                            </div>
-                            <div class="dedicated-team-member-name">
-                                <h4>John Martin -<span>Founder</span></h4>
-                            </div>
-                        </div>
-                    </div>
-                    <!--End dedicated team single item-->
-                </div>
-            </div>
-        </div>
-    </section>
-    <!--End dedicated team area-->    
 
 
 	<section id="testimonials-gardener">

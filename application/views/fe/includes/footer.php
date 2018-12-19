@@ -6,19 +6,19 @@
 					<!-- .widget -->
 					<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 widget">
 						<h3>About Us</h3>
-						<p>Lorem ipsum dolor sit amet, consect etur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna ali qua. Ut enim.</p>
-						<a href="#" class="read-more">Read More <i class="fa fa-arrow-circle-right"></i></a>
+						<p> Mayani Poultry is Kenyan Hatchery company which provides farmers with quality chicks for rearing, hatchery services and Equipments </p>
+						<a href="<?php echo base_url();?>about" class="read-more">Read More <i class="fa fa-arrow-circle-right"></i></a>
 						
 					</div> <!-- /.widget -->
 					<!-- .widget -->
 					<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 widget">
 						<h3>Our Services</h3>
 						<ul class="quick-links">
-							<li><a href="#">Lawn Renovation</a></li>
-							<li><a href="#">Flowerscaping</a></li>
-							<li><a href="#">Natural Stone Walks</a></li>
-							<li><a href="#">Tree & Shrub Care</a></li>
-							<li><a href="#">Seasonal Clean-ups</a></li>
+							<li><a href="#">Incubation Services</a></li>
+							<li><a href="#">Supply of fertile eggs</a></li>
+							<li><a href="#">Construction of Poultry Houses </a></li>
+							<li><a href="#">Food Sales and Deliveries</a></li>
+							<li><a href="#">Training Farmers on Poultry rearing</a></li>
 						</ul>
 					</div> <!-- /.widget -->
 					<!-- .widget -->
@@ -30,7 +30,7 @@
 									<i class="fa fa-map-marker"></i>
 								</div>
 								<div class="content">
-									<p>Lorance Road 542B, Tailstoi Town<br>5248 MT, Wordwide Country</p>
+									<p>Fredrick Irungu</p>
 								</div>
 							</li>
 							<li>
@@ -38,7 +38,7 @@
 									<i class="fa fa-phone"></i>
 								</div>
 								<div class="content phone">
-									<p>01865 524 8503</p>
+									<p>+254 721 127 673 </p>
 								</div>
 							</li>
 							<li>
@@ -46,7 +46,7 @@
 									<i class="fa fa-envelope-o"></i>
 								</div>
 								<div class="content">
-									<p>contact@gardencare.com</p>
+									<p>info@mayanipoultry.co.ke</p>
 								</div>
 							</li>
 						</ul>
@@ -71,11 +71,11 @@
 							<li><a href="#" class="hvr-radial-out"><i class="fa fa-google-plus"></i></a></li>
 							<li><a href="#" class="hvr-radial-out"><i class="fa fa-linkedin"></i></a></li>
 						</ul>
-						<p>Created by: DesignArc</p>
+						<p>Created by: Hypertech Solutions</p>
 					</div> <!-- /.copyright -->
 					<!-- .credit -->
 					<div class="credit pull-right">
-						<p>Copyright &copy; Garden Care 2015. All rights reserved. </p>
+						<p>Copyright &copy; Hypertech Solutions 2019. All rights reserved. </p>
 					</div> <!-- /.credit -->
 				</div>
 			</div> 
